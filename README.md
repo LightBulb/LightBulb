@@ -2,7 +2,7 @@
 
 [![lightbulb](http://r.loli.io/IRrUfe.jpg)](https://dribbble.com/shots/188133-What-to-do-when-your-light-bulb-burns-out-in-the-night)
 
-你有什么想法不重要，据某个不愿意透露姓名的 Facebook 员工透露，扎克伯格说过一句中二的话: You invented Facebook You'd have invented Facebook. 最大的价值是在讨论想法的过程中获得的。
+你有什么想法不重要，据某个不愿意透露姓名的 Facebook 员工透露，扎克伯格说过一句中二的话: “You invented Facebook You'd have invented Facebook.” 。
 
 也许你见惯了那种 “就差一个程序员了” 的创意，而更苦逼的是 “就差一个创意了” 的程序员。
 因为这个世界很多人纠结于自己的创意，分享了怕被别人窃取，捏在手里却只能慢慢烂掉。
