@@ -21,6 +21,8 @@ Light bulb 将会每周更新一次，每周末都会在 master 分支新增一�
 - 在 Twitter 上圈我 [@siyuejulin](https://twitter.com/siyuejulin)
 - 还想要更多方式? 这些应该够了。
 
+你也可以查看[正在讨论中的创意](https://github.com/aprilorange/light-bulb/labels/idea)
+
 --- 
 
 更新记录：
