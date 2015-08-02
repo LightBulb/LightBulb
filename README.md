@@ -31,4 +31,4 @@ Light bulb 将会每周更新一次，每周末都会在 master 分支新增一�
 
 更新记录：
 
-- EP1: coming on 2015/8/2 
+- EP1: coming when I had over 100 ideas listed in issues.
