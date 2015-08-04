@@ -11,7 +11,7 @@
 你的想法很多时候是毫无价值的，有时候太异想天开并没有什么卵用，但产生想法的头脑风暴值得交流，毕竟相比哆啦A梦的道具我更希望拥有那取之不尽的四次元口袋。该文章的作者运营着 [dev ideas](https://devideas.github.io/) 邮件列表，我大概实现了四五个其中的创意，尽管不完美。
 其中就包括 [GitHunt](https://githunt.io) 这个项目，就其在 [ProductHunt](http://www.producthunt.com/tech/git-hunt) 上的表现来看，是具有实现价值的，而在实现过程中我也获得了很多灵感。有段时间我的效率是平均两天实现一个想法。
 
-Light bulb 将会每周更新一次，每周末都会在 master 分支新增一个 markdown 格式的 episode 文件，其中会有至少 4 个来自各位分享的想法、创意以及已经完成的发明。
+Light Bulb 将会在达到 100 个 idea 之后出杂志版本。
 
 ---
 
