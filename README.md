@@ -11,6 +11,10 @@
 你的想法很多时候是毫无价值的，有时候太异想天开并没有什么卵用，但产生想法的头脑风暴值得交流，毕竟相比哆啦A梦的道具我更希望拥有那取之不尽的四次元口袋。该文章的作者运营着 [dev ideas](https://devideas.github.io/) 邮件列表，我大概实现了四五个其中的创意，尽管不完美。
 其中就包括 [GitHunt](https://githunt.io) 这个项目，就其在 [ProductHunt](http://www.producthunt.com/tech/git-hunt) 上的表现来看，是具有实现价值的，而在实现过程中我也获得了很多灵感。有段时间我的效率是平均两天实现一个想法。
 
+如果你担心你的想法已经与别人重复了，或者只是个 "Copy to China" 的想法，你应该阅读这段引自 Medium 的内容（出处找了半天没找到）：
+
+>one has to copy others to learn the art of being original. Small projects contribute a lot in generating new ideas, because once you start copying you realize that you can add missing features yourself, i.e. you get the sense of what can be done to improve the existing. An artist cannot go about painting realistic pictures in one day, he practices by copying a lot of other artists before he could produce his original work. Similar is the case with building software, start small by copying small projects.
+
 Light Bulb 将会在达到 100 个 idea 之后出杂志版本。
 
 ---
