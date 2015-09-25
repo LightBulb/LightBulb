@@ -15,8 +15,6 @@
 
 >one has to copy others to learn the art of being original. Small projects contribute a lot in generating new ideas, because once you start copying you realize that you can add missing features yourself, i.e. you get the sense of what can be done to improve the existing. An artist cannot go about painting realistic pictures in one day, he practices by copying a lot of other artists before he could produce his original work. Similar is the case with building software, start small by copying small projects.
 
-Light Bulb 将会在达到 100 个 idea 之后出杂志版本。
-
 ---
 
 提交方式有：
@@ -31,8 +29,6 @@ Light Bulb 将会在达到 100 个 idea 之后出杂志版本。
 
 *这里所指的创意、想法、发明并不止于互联网项目，一切头脑风暴皆可。
 
----
+## License
 
-更新记录：
-
-- EP1: coming when I had over 100 ideas listed in issues.
+This list is under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
