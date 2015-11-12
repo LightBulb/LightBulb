@@ -19,11 +19,11 @@
 
 提交方式有：
 
-- 在 Issues 中直接[发起讨论](https://github.com/aprilorange/light-bulb/issues/new)
-- 在 Twitter 上圈我 [@siyuejulin](https://twitter.com/siyuejulin)
+- 在 Issues 中直接[发起讨论](https://github.com/egoist/light-bulb/issues/new)
+- 在 Twitter 上圈我 [@EGOIST@庶民样本](https://twitter.com/shomin_sample)
 - 还想要更多方式? 这些应该够了。
 
-你也可以查看[正在讨论中的创意](https://github.com/aprilorange/light-bulb/labels/idea)
+你也可以查看[正在讨论中的创意](https://github.com/egoist/light-bulb/labels/idea)
 
 --- 
 
