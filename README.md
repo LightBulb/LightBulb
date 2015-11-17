@@ -23,7 +23,7 @@
 - 在 Twitter 上圈我 [@EGOIST@庶民样本](https://twitter.com/shomin_sample)
 - 还想要更多方式? 这些应该够了。
 
-你也可以查看[正在讨论中的创意](https://github.com/egoist/light-bulb/labels/idea)
+你也可以查看[正在讨论中的创意](https://github.com/LightBulb/LightBulb/labels/idea)
 
 --- 
 
