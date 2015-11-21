@@ -19,7 +19,7 @@
 
 提交方式有：
 
-- 在 Issues 中直接[发起讨论](https://github.com/egoist/light-bulb/issues/new)
+- 在 Issues 中直接[发起讨论](https://github.com/LightBulb/LightBulb/labels/idea)
 - 在 Twitter 上圈我 [@EGOIST@庶民样本](https://twitter.com/shomin_sample)
 - 还想要更多方式? 这些应该够了。
 
