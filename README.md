@@ -14,15 +14,15 @@
 
 >one has to copy others to learn the art of being original. Small projects contribute a lot in generating new ideas, because once you start copying you realize that you can add missing features yourself, i.e. you get the sense of what can be done to improve the existing. An artist cannot go about painting realistic pictures in one day, he practices by copying a lot of other artists before he could produce his original work. Similar is the case with building software, start small by copying small projects.
 
--
+<h2></h2>
 
 **你可以在 Issues 中直接[发起讨论](https://github.com/LightBulb/LightBulb/labels/idea)**
 
 **也可以查看[正在讨论中的创意](https://github.com/LightBulb/LightBulb/labels/idea)**
 
--
+<h2></h2>
 
-*这里所指的创意、想法、发明并不止于互联网项目，一切头脑风暴皆可。
+*这里所指的创意、想法、发明并不止于互联网项目，一切头脑风暴皆可。*
 
 ## License
 
